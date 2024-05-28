@@ -1,4 +1,3 @@
-![Voll - Mobile](https://repository-images.githubusercontent.com/604322042/0b63dd66-5a29-4646-9c15-a9f490bb3742)
 
 # Voll #
 
@@ -17,10 +16,6 @@ As tecnologias e ferramentas utilizadas nesta aplicação incluem:
 * Expo: plataforma de desenvolvimento de aplicativos para React Native
 * React Native: framework para desenvolvimento de aplicativos para plataformas móveis
 
-## 🎯 Desafio ##
-
-Usar a biblioteca Native Base e TypeScript para criar uma aplicação para consultas médicas.
-
 ## 📁 Acesso ao projeto ##
 
 O código fonte desta aplicação pode ser acessado em seu repositório no GitHub.
@@ -34,5 +29,4 @@ O código fonte desta aplicação pode ser acessado em seu repositório no GitHu
 `npx expo start`
 
 ## 📚 Mais informações ##
-
 Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor.
